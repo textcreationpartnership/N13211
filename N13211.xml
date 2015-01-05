@@ -111,22 +111,23 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:016706_0000_0F9D78C5C15D7CC0"/>
-            <pb facs="tcp:016706_0001_0F9D78C5E3BAC638" rendition="simple:additions"/>
+            <pb facs="unknown:016706_0000_0F9D78C5C15D7CC0"/>
+            <pb facs="unknown:016706_0001_0F9D78C5E3BAC638"
+                rendition="simple:additions"/>
             <p>AN ELEGY ON THE LATE HONORABLE TITUS HOSMER, <abbr>ESQ</abbr> ONE OF THE COUNSELLORS OF THE STATE OF CONNECTICUT, A MEMBER OF CONGRESS, And a JUDGE of the MARITIME COURT OF APPEALS for the UNITED STATES OF AMERICA.</p>
             <p>
                <hi>HARTFORD: PRINTED BY HUDSON</hi> &amp; <hi>GOODWIN.</hi>
             </p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:016706_0002_0F9D78C671544FA8"/>
+            <pb facs="unknown:016706_0002_0F9D78C671544FA8"/>
             <head>TO MRS. LYDIA HOSMER, RELICT OF THE LATE HONORABLE TITUS HOSMER, <abbr>ESQ</abbr> THIS ELEGY IS INSCRIBED,</head>
             <p>AS a Teſtimony of the Author's Veneration for the many amia<g ref="char:EOLhyphen"/>ble Virtues which rendered her the Delight and Ornament of ſo worthy a Conſort, and ſtill render her an Honor to a very numerous and re<g ref="char:EOLhyphen"/>ſpectable Acquaintance.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:016706_0003_0F9D78C6E0E376D0"/>
+            <pb facs="unknown:016706_0003_0F9D78C6E0E376D0"/>
             <head>AN <hi>ELEGY,</hi> &amp;c.</head>
             <lg>
                <l>COME to my ſoul, O ſhade of Hoſmer, come,</l>
@@ -147,7 +148,7 @@
                <l>And bear her voice with thy loſt form away.</l>
             </lg>
             <lg>
-               <pb n="6" facs="tcp:016706_0004_0F9D78C9E1AB1460"/>
+               <pb n="6" facs="unknown:016706_0004_0F9D78C9E1AB1460"/>
                <l>Come to my ſoul thou venerable Sage,</l>
                <l>In all the ſheeted majeſty of night,</l>
                <l>Snatch the bold quill, control the noble rage,</l>
@@ -186,7 +187,7 @@
                <l>Or bend one pitying look to earth again?</l>
             </lg>
             <lg>
-               <pb n="7" facs="tcp:016706_0005_0F9D78CB63C0EC70"/>
+               <pb n="7" facs="unknown:016706_0005_0F9D78CB63C0EC70"/>
                <l>Can thence no thought to that fair ſeat deſcend?</l>
                <l>The ſeat once joyous in thy joys below,</l>
                <l>Where robes of ſable ſadneſs now depend,</l>
@@ -223,7 +224,7 @@
                <l>And years and ages die to waken more.</l>
             </lg>
             <lg>
-               <pb n="8" facs="tcp:016706_0006_0F9D78CB7455A0F8"/>
+               <pb n="8" facs="unknown:016706_0006_0F9D78CB7455A0F8"/>
                <l>But thou alas! no more on earth wilt tread,</l>
                <l>Nor one ſhort hour thy bleſt employments leave,</l>
                <l>Tho' the ſad knell, that hail'd thee to the dead,</l>
@@ -262,7 +263,7 @@
                <l>And shew the well-known circuit of thine own,</l>
             </lg>
             <lg>
-               <pb n="9" facs="tcp:016706_0007_0F9D78CC2119EC38"/>
+               <pb n="9" facs="unknown:016706_0007_0F9D78CC2119EC38"/>
                <l>Wilt thou remark the bluely-bending ſhore?</l>
                <l>Where hills and champaigns ſtretch abroad their pride,</l>
                <l>Where opening ſtreams their lengthieſt currents pour,</l>
@@ -299,7 +300,7 @@
                <l>Have learnt their ſure ſalvation from thy tongue.</l>
             </lg>
             <lg>
-               <pb n="10" facs="tcp:016706_0008_0F9D78CD6EC5E468"/>
+               <pb n="10" facs="unknown:016706_0008_0F9D78CD6EC5E468"/>
                <l>While cares of empires ſit upon their brow,</l>
                <l>And all th' increaſing counſels of an age,</l>
                <l>Demand, alike, bold virtue's warmeſt glow,</l>
@@ -339,7 +340,7 @@
                <l>The friend the pride the glory of his race?</l>
             </lg>
             <lg>
-               <pb n="11" facs="tcp:016706_0009_0F9D78CDB1D0BB38"/>
+               <pb n="11" facs="unknown:016706_0009_0F9D78CDB1D0BB38"/>
                <l>Where civil rights, the dignity of men,</l>
                <l>And all the extenſive privilege of laws,</l>
                <l>Roll'd from thy voice or brighten'd from thy pen,</l>
@@ -383,7 +384,7 @@
                <l>Th' impartial deep diſcernment of a god.</l>
             </lg>
             <lg>
-               <pb n="12" facs="tcp:016706_0010_0F9D78CE61B1AFC8"/>
+               <pb n="12" facs="unknown:016706_0010_0F9D78CE61B1AFC8"/>
                <l>Then in his breaſt may all thy virtues riſe,</l>
                <l>And all thy dignity around him ſhine,</l>
                <l>Then drop thy own bleſt mantle from the ſkies,</l>
@@ -420,7 +421,7 @@
                <l>And his dear country feeds his nobleſt joy.</l>
             </lg>
             <lg>
-               <pb n="13" facs="tcp:016706_0011_0F9D78CF21AB9930"/>
+               <pb n="13" facs="unknown:016706_0011_0F9D78CF21AB9930"/>
                <l>He ſees our riſing, all-involving cauſe,</l>
                <l>Spread like the morn to every diſtant clime,</l>
                <l>Awake the mild magnificence of laws,</l>
@@ -467,7 +468,7 @@
                <l>And learns the tale of every ſpeaking woe.</l>
             </lg>
             <lg>
-               <pb n="14" facs="tcp:016706_0012_0F9D78D060D0D160"/>
+               <pb n="14" facs="unknown:016706_0012_0F9D78D060D0D160"/>
                <l>Thou knowſt, while here, he joy'd to give relief,</l>
                <l>To call dark merit to the eye of day,</l>
                <l>To rob the ſilent orphan of her grief,</l>
@@ -504,7 +505,7 @@
                <l>And all thy graces brighten and adorn.</l>
             </lg>
             <lg>
-               <pb n="15" facs="tcp:016706_0013_0F9D78D0CD22CEE8"/>
+               <pb n="15" facs="unknown:016706_0013_0F9D78D0CD22CEE8"/>
                <l>Short is the date that virtue from its home,</l>
                <l>In theſe deep ſhades, can ſuffer and refine;</l>
                <l>And when kind heaven relieves it from the doom,</l>
